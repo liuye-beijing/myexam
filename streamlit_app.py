@@ -9,7 +9,7 @@ CURRENT_PROGRESS = "高一数学：函数单调性、奇偶性；高一化学：
 
 # 豆包固定官方接口（稳定可用）
 openai.api_base = "https://ark.cn-beijing.volces.com/api/v3"
-openai.api_key = api-key-20260309094850
+openai.api_key = "282b34ab-cf9d-45a4-ac25-ada42ffc1330"
 MODEL_NAME = "doubao-seed-2.0-pro"
 
 st.set_page_config(page_title="试卷AI学情分析", layout="centered")
