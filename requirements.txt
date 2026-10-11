@@ -1,4 +1,2 @@
-streamlit==1.38.0
-openai==1.35.0
-pillow==10.4.0
-easyocr
+streamlit
+openai
